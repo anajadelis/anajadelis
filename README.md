@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Swift.
 - 💞️ I’m looking to collaborate on Swift-based apps, not only on the graphic part, but also on creating sound themes for games, for example.
 - 📫 How to reach me:
-- 
 - email: anajadecontato@gmail.com
 - linkedin: https://www.linkedin.com/in/ana-jade-06245a224/
 - instagram: https://www.instagram.com/eus0ujade/
