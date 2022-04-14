@@ -29,7 +29,7 @@ Hi, y'all! My name is Ana, and I go by She/Her!
  
 <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/anajadelis/anajadelis/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
