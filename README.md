@@ -28,10 +28,13 @@ Hi, y'all! My name is Ana, and I go by She/Her!
  
   ![Snake animation](https://github.com/anajadelis/anajadelis/blob/output/github-contribution-grid-snake.svg)
  
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
-                                                                  ~Cya!~
-<!---
-anajadelis/anajadelis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <p>Made with :heart: e JavaScript.</p>
+  <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> and <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
