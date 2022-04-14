@@ -6,8 +6,8 @@ Hi, y'all! My name is Ana, and I go by She/Her!
 
 <div align="center">
   <a href="https://github.com/anajadelis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anajadelis&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajadelis&layout=compact&langs_count=7&theme=moltack"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anajadelis&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajadelis&layout=compact&langs_count=7&theme=moltack"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -18,7 +18,7 @@ Hi, y'all! My name is Ana, and I go by She/Her!
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/Lnhr94D/037068669015f745104fb3206ca26843.gif">
 </div>
   
-  <p>______________________________________________________________________________________________________________________________</p>
+  <p>_______________________________________________________________________________________________________</p>
   <div> 
   <a href="https://www.youtube.com/channel/UCzbEOQnDkZo7QKg3d3wdwpA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/eus0ujade/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
