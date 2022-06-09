@@ -1,8 +1,6 @@
-Hi, y'all! My name is Ana, and I go by She/Her!
-
-- 👀 I’m interested in bascially anything related to Web Design and IOS developing, along with photo modification, graphic design and music production!
-- 🌱 I’m currently learning Swift, Java, JavaScript and Python.
-- 💞️ I’m looking to collaborate on Swift-based apps, not only on the graphic part, but also on creating sound themes for games or anything music related.
+                                                 Hi, y'all! My name is Ana, and I go by She/Her!
+                                                 
+                                                 
 
 <div align="center">
   <a href="https://github.com/anajadelis">
